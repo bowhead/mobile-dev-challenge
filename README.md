@@ -2,9 +2,9 @@
 
 ## Smart Contract Info
 This repo has everything needed to create a mobile dAPP to interact with a smart contract.
-The contract source code is located in the [smart_contract/contracts](smart_contract/contracts) and the ABI can be found here:  [smart_contract/build/BowheadDevChallenge.json](smart_contract/build/BowheadDevChallenge.json).
+The contract source code is located in the [smart_contract/contracts](smart_contract/contracts) and the ABI can be found here:  [smart_contract/build/BowheadDevChallenge.json](smart_contract/build/contracts/BowheadDevChallenge.json).
 
-The smart contract was deployed to the [Rinkeby](https://medium.com/@piyopiyo/list-of-ethereums-major-network-and-chain-ids-2bc58e928508) testnet
+The smart contract was deployed to the [Rinkeby](https://medium.com/@piyopiyo/list-of-ethereums-major-network-and-chain-ids-2bc58e928508) testnet.
 
 This is the smart contract address:
 0xc7c44c64DBddA29e2723FD1056ab876A54ef24CE
